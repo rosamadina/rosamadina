@@ -60,15 +60,15 @@ var rosa = Developer{
 
 > Most of my work lives in private company repositories, so the projects above are summarized rather than linked.
 
+<!-- Hidden until private and work-email contributions show up on the profile.
 ## GitHub activity
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=rosamadina&background=F5F4ED&ring=D7720C&fire=E6A54D&currStreakNum=0D2322&sideNums=0D2322&currStreakLabel=D7720C&sideLabels=0D2322&dates=5A6662&stroke=C6BEA5&border=C6BEA5" alt="GitHub contribution streak" />
 
-<img src="https://ghchart.rshah.org/D7720C/rosamadina" alt="GitHub contribution calendar, last 12 months" width="100%" />
-
 </div>
+-->
 
 ## How I work
 
