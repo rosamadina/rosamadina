@@ -66,7 +66,7 @@ var rosa = Developer{
 
 <img src="https://streak-stats.demolab.com?user=rosamadina&background=F5F4ED&ring=D7720C&fire=E6A54D&currStreakNum=0D2322&sideNums=0D2322&currStreakLabel=D7720C&sideLabels=0D2322&dates=5A6662&stroke=C6BEA5&border=C6BEA5" alt="GitHub contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rosamadina&bg_color=F5F4ED&color=0D2322&line=D7720C&point=E6A54D&area=true&area_color=E6A54D&hide_border=true&title_color=0D2322" alt="GitHub contribution graph, last 30 days" width="100%" />
+<img src="https://ghchart.rshah.org/D7720C/rosamadina" alt="GitHub contribution calendar, last 12 months" width="100%" />
 
 </div>
 
